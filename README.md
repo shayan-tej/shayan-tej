@@ -1,4 +1,4 @@
-# 📊 GitHub Stats:
+<div align="center"><h1>S H A Y A N - T E J <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1></div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shayan-tej&theme=omni&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
